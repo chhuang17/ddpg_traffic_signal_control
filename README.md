@@ -14,7 +14,7 @@ Also, in the training stage, we used Vissim to simulate the interaction between 
 In order to interact to Vissim, we used the **COM Interface** to change the traffic signal in real-time after the ddpg agent computing the new splits and offsets in the next stage.
 The control algorithm was written in **Python** and adopted the **PyTorch** framework to build our deep neural network and the ddpg agent.
 
-We built 3 intersections in Vissim as our experimental field, and each of them added motorbike waiting zones **[Figure 1]** and two-stage left turn waiting areas **[Figure 2]**,
+We built 3 intersections in Vissim as our experimental field, and each of them added motorbike waiting zones **(shown as Figure 1)** and two-stage left turn waiting areas **(shown as Figure 2)**,
 catering to the real traffic engineering designation in Taiwan.
 
 We collected the flow and the density data of each link in our road network by Vissim COM API, and took them as the neural network input.
