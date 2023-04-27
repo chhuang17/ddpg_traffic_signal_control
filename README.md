@@ -64,8 +64,8 @@ In this situation, the traffic flow inputted in Vissim was constant every 15 min
 
 #### Figure 5 (left) and Figure 6 (right)
 <div align="center">
-<img src="https://user-images.githubusercontent.com/81426493/234751423-d66321d3-29bb-4da1-8949-403fedf22960.png" width="500" height="360">
-<img src="https://user-images.githubusercontent.com/81426493/234751437-16968719-3b42-43a9-bcd9-a22b6cfa6848.png" width="500" height="360">
+<img src="https://user-images.githubusercontent.com/81426493/234751423-d66321d3-29bb-4da1-8949-403fedf22960.png" width="400" height="280">
+<img src="https://user-images.githubusercontent.com/81426493/234751437-16968719-3b42-43a9-bcd9-a22b6cfa6848.png" width="400" height="280">
 </div>
 
 ### Scenario 2: Unsteady Traffic Flow
@@ -75,8 +75,8 @@ Under this scenario, our ddpg agent still performed better than the other two tr
 
 #### Figure 7 (left) and Figure 8 (right)
 <div align="center">
-<img src="https://user-images.githubusercontent.com/81426493/234758928-60cfe7dd-a5a4-41fd-8d6d-824c6b1db717.png" width="500" height="360">
-<img src="https://user-images.githubusercontent.com/81426493/234758945-a32422a8-5760-49e4-93b2-cf120f933a4e.png" width="500" height="360">
+<img src="https://user-images.githubusercontent.com/81426493/234758928-60cfe7dd-a5a4-41fd-8d6d-824c6b1db717.png" width="400" height="280">
+<img src="https://user-images.githubusercontent.com/81426493/234758945-a32422a8-5760-49e4-93b2-cf120f933a4e.png" width="400" height="280">
 </div>
 
 
