@@ -34,7 +34,7 @@ and the rest are the offsets of each intersection.
 
 
 ## Training
-In this project, each episode was represented. To accelerate the training process, we adopted a lower discount factor of 0.6.
+In this project, the time length of each episode was one hour. To accelerate the training process, we adopted a lower discount factor of 0.6.
 According to Ota et al.(2019), we constructed the neural network in a wide and shallow shape.
 In other words, the number of layers of the network is fewer, and each layer contains more neurons.
 **Figure 3** is the construction of the neural network, and **Figure 4** is the reward curve after training 2000 episodes.
