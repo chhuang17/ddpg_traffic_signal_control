@@ -1,4 +1,9 @@
 # A Real-Time Traffic Signal Control Method by DDPG
+## Related Paper
+[深度確定性策略梯度法建構幹道即時號誌控制系統.pdf](https://github.com/chhuang17/ddpg_traffic_signal_control/files/11431364/_.pdf)
+
+
+## Introduction
 This project introduces the Deep Deterministic Policy Gradient algorithm to develop a real-time traffic signal control method,
 and aims to apply the special traffic flow pattern in Taiwan.
 The Deep Deterministic Policy Gradient is one of an algorithm of deep reinforcement learning, which advantage is able to apply to continuous action space.
